@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194385765544",
+    "project_id": "test-siragugal-novels",
+    "storage_bucket": "test-siragugal-novels.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194385765544:android:ef152aa1ebd38319a08e9d",
+        "android_client_info": {
+          "package_name": "com.siragugal.novels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194385765544-bg2405r1k2j0dq6khuch837rg81bj0ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5oL_0_54NPbwOQilwSqsJwEma0eVNN5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194385765544-bg2405r1k2j0dq6khuch837rg81bj0ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
